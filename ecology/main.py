@@ -111,7 +111,7 @@ async def main_function(ctx, n:int):
 
   
 
-bot.run('MTExNzg1NzY5MTMxOTE0MDM1Mg.GxtILC.WitZPjg2eTiQebneVzKOJMvIpRbWLsOypkKITk')
+bot.run('ТОКЕН')
 
 
 
